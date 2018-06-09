@@ -1,4 +1,6 @@
 discord.py
 youtube_dl
 asyncio
-
+aiohttp
+websockets
+chardet
