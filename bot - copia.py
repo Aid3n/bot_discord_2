@@ -4,7 +4,6 @@ from discord.ext import commands
 import asyncio
 from itertools import cycle
 
-TOKEN = 'NDM3OTU0MjY4MDA0MzUyMDEw.DfyXSw.d2dXxWrMEP2uk4qv-cWETs-RkKU'
 client = commands.Bot(command_prefix = '?')
 players = {}
 
